@@ -1,5 +1,5 @@
 {
-  "versao": 4,
+  "versao": 5,
   "gerado_em": "2026-08-30",
   "editais": [
     {
@@ -102,6 +102,22 @@
         "alternativas": 4,
         "pontuacao_total": 100.0,
         "aprovacao": "mínimo 50% do total de pontos, sem zerar nenhum conteúdo",
+        "avaliacao_titulos": true
+      }
+    },
+    {
+      "id": "paiva-mg-001-2026",
+      "orgao": "Prefeitura Municipal de Paiva/MG",
+      "uf": "MG",
+      "numero": "Edital de Concurso Público nº 001/2026",
+      "banca": "JCM Concursos",
+      "data_prova": "não informado",
+      "prova": {
+        "tipo_item": "múltipla escolha",
+        "total_questoes": 30,
+        "pontuacao_total": 100.0,
+        "nota_minima_aprovacao": 50.0,
+        "correcao": "soma dos acertos por disciplina × peso da disciplina",
         "avaliacao_titulos": true
       }
     }
@@ -352,6 +368,35 @@
         }
       ],
       "obs": "Programa de específicos é o mais enxuto dos 9 cargos: sem menção a RAPS, SUAS ou intervenção em crise. Foco em avaliação psicológica, teorias da personalidade, psicopatologia (alcoolismo, depressão, esquizofrenia, ansiedade), desenvolvimento psicomotor infantil e DSTs."
+    },
+    {
+      "slug": "psicologo-da-educacao-paiva-mg",
+      "nome": "Psicólogo da Educação",
+      "edital_id": "paiva-mg-001-2026",
+      "vagas": "1",
+      "remuneracao": "R$ 3.615,99",
+      "jornada": "30h",
+      "disciplinas": [
+        {
+          "materia": "conhecimentos-especificos-psicologia-escolar",
+          "questoes": 10,
+          "peso": 4.0,
+          "pontos": 40.0
+        },
+        {
+          "materia": "lingua-portuguesa",
+          "questoes": 10,
+          "peso": 3.5,
+          "pontos": 35.0
+        },
+        {
+          "materia": "raciocinio-logico",
+          "questoes": 10,
+          "peso": 2.5,
+          "pontos": 25.0
+        }
+      ],
+      "obs": "Único cargo, entre os 10 mapeados, cujo programa é integralmente de Psicologia Escolar/Educacional — não psicologia geral com um bloco escolar. Cita DSM-5-TR explicitamente e nomeia transtornos específicos (TEA, TDAH, dislexia/disgrafia/disortografia/discalculia, automutilação, comportamento suicida). Legislação própria: LDB (Lei 9.394/96), LBI (Lei 13.146/2015), Lei 12.764/2012 (TEA), Lei 13.935/2019 (psicologia/serviço social na educação básica), Resoluções CFP 03/2022 e 31/2022."
     }
   ],
   "modulos_psicologia": [
@@ -466,6 +511,16 @@
       "exclusivo": [
         "unesp"
       ]
+    },
+    {
+      "slug": "psicologia-escolar-dsm5",
+      "nome": "Psicologia Escolar/Educacional aprofundada — teorias, transtornos do neurodesenvolvimento (DSM-5-TR), convivência escolar",
+      "cargos": 1,
+      "paginas": 45,
+      "exclusivo": [
+        "paiva-mg"
+      ],
+      "obs": "Mais profundo que o módulo genérico 'psicologia-escolar' — inclui classificação DSM-5-TR e legislação educacional específica (LDB, LBI, Lei do TEA)."
     }
   ],
   "materias_comuns_reuso": [

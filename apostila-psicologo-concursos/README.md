@@ -2,7 +2,7 @@
 
 Gerada com a skill `apostila-concursos-reverso`. Estado: **Etapas 1 e 2 concluídas** (extração de editais + plano pedagógico). Etapas 3–6 (teoria, questões, montagem final) ainda não iniciadas.
 
-## Editais mapeados (7 de 8 recebidos — Bariri/SP pendente)
+## Editais mapeados (8 de 9 recebidos — Bariri/SP pendente)
 
 | Edital | Cargo(s) | Banca | UF |
 |---|---|---|---|
@@ -13,8 +13,9 @@ Gerada com a skill `apostila-concursos-reverso`. Estado: **Etapas 1 e 2 concluí
 | `edital-sao-roque-008-2026.md` | Psicólogo Adulto, Psicólogo Infantil | não informada | SP |
 | `edital-sao-pedro-do-turvo-01-2026.md` | Psicólogo 20h, Psicólogo Educacional | UNIQUE | SP |
 | `edital-antonio-prado-de-minas-01-2026.md` | Psicólogo | IBGP | MG |
+| `edital-paiva-mg-001-2026.md` | Psicólogo da Educação | JCM Concursos | MG |
 
-**9 cargos de psicólogo no total.** Ver `plano_pedagogico.json` para o mapa completo (matérias comuns, módulos de psicologia reaproveitáveis, distribuição de questões por edital).
+**10 cargos de psicólogo no total.** Ver `plano_pedagogico.json` para o mapa completo (matérias comuns, módulos de psicologia reaproveitáveis, distribuição de questões por edital).
 
 ## Pendências
 - Bariri/SP — Edital nº 01/2026 (retificações): recebido só como link; PCI Concursos bloqueado pela política de egresso da sessão que gerou este material. Precisa reenviar o PDF.
