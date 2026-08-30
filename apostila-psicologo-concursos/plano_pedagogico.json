@@ -1,0 +1,512 @@
+{
+  "versao": 4,
+  "gerado_em": "2026-08-30",
+  "editais": [
+    {
+      "id": "agsus-98-2026",
+      "orgao": "AgSUS — Programa AgSUS Acolhedora",
+      "uf": "DF",
+      "numero": "PSS nº 98/2026",
+      "banca": "Cebraspe",
+      "data_prova": "2026-11-01",
+      "prova": {
+        "tipo_item": "CERTO/ERRADO",
+        "total_questoes": 40,
+        "alternativas": null,
+        "nota_minima": "20,00 de 40,00",
+        "penalidade_erro": 0.0,
+        "modalidade": "on-line remota"
+      }
+    },
+    {
+      "id": "anhembi-001-2026",
+      "orgao": "Prefeitura Municipal de Anhembi",
+      "uf": "SP",
+      "numero": "Concurso Público nº 001/2026",
+      "banca": "INEPAM",
+      "data_prova": "não informado",
+      "prova": {
+        "tipo_item": "múltipla escolha",
+        "total_questoes": 30,
+        "alternativas": 5,
+        "nota_minima": "não informado",
+        "duracao": "3h00"
+      }
+    },
+    {
+      "id": "unesp-301-2026",
+      "orgao": "UNESP — IBILCE, São José do Rio Preto",
+      "uf": "SP",
+      "numero": "Edital nº 301/2026-CSJRP",
+      "banca": "Banca Examinadora do IBILCE/UNESP",
+      "data_prova": "não informado",
+      "prova": {
+        "tipo_item": "múltipla escolha + dissertativa",
+        "objetiva": "0 a 50 pontos, mínimo 25",
+        "dissertativa": "0 a 100 pontos, mínimo acima de 50",
+        "pontuacao_final_max": 150
+      }
+    },
+    {
+      "id": "sao-roque-008-2026",
+      "orgao": "Prefeitura da Estância Turística de São Roque",
+      "uf": "SP",
+      "numero": "Edital nº 008/2026",
+      "banca": "não informado",
+      "data_prova": "não informado",
+      "prova": {
+        "tipo_item": "múltipla escolha",
+        "total_questoes": 40,
+        "alternativas": 4,
+        "pontuacao_total": 10.0
+      }
+    },
+    {
+      "id": "sao-pedro-turvo-01-2026",
+      "orgao": "Prefeitura Municipal de São Pedro do Turvo",
+      "uf": "SP",
+      "numero": "Concurso Público nº 01/2026",
+      "banca": "Instituto UNIQUE",
+      "data_prova": "não informado",
+      "prova": {
+        "tipo_item": "múltipla escolha",
+        "total_questoes": 40,
+        "duracao": "3h00",
+        "pontuacao_total": "110 (com títulos)"
+      }
+    },
+    {
+      "id": "embu-das-artes-001-2026",
+      "orgao": "Prefeitura Municipal de Embu das Artes",
+      "uf": "SP",
+      "numero": "Concurso Público nº 001/2026",
+      "banca": "INEPAM",
+      "data_prova": "não informado",
+      "prova": {
+        "tipo_item": "múltipla escolha",
+        "total_questoes": 40,
+        "alternativas": 5,
+        "duracao": "3h00"
+      }
+    },
+    {
+      "id": "antonio-prado-minas-01-2026",
+      "orgao": "Prefeitura de Antônio Prado de Minas/MG",
+      "uf": "MG",
+      "numero": "Edital nº 01/2026",
+      "banca": "IBGP (Instituto Brasileiro de Gestão e Pesquisa)",
+      "data_prova": "não informado",
+      "prova": {
+        "tipo_item": "múltipla escolha",
+        "total_questoes": 40,
+        "alternativas": 4,
+        "pontuacao_total": 100.0,
+        "aprovacao": "mínimo 50% do total de pontos, sem zerar nenhum conteúdo",
+        "avaliacao_titulos": true
+      }
+    }
+  ],
+  "cargos": [
+    {
+      "slug": "psicologo-agsus",
+      "nome": "Psicólogo",
+      "edital_id": "agsus-98-2026",
+      "vagas": "cadastro de reserva",
+      "remuneracao": "R$ 8.800,00",
+      "jornada": "40h",
+      "disciplinas": [
+        {
+          "materia": "conhecimentos-sus",
+          "questoes": 10
+        },
+        {
+          "materia": "normativos-agsus",
+          "questoes": 10
+        },
+        {
+          "materia": "especificos-psicologia",
+          "questoes": 20
+        }
+      ]
+    },
+    {
+      "slug": "psicologo-anhembi",
+      "nome": "Psicólogo",
+      "edital_id": "anhembi-001-2026",
+      "vagas": "cadastro de reserva",
+      "remuneracao": "R$ 4.273,67",
+      "jornada": "30h",
+      "disciplinas": [
+        {
+          "materia": "lingua-portuguesa",
+          "questoes": 10
+        },
+        {
+          "materia": "matematica",
+          "questoes": 5
+        },
+        {
+          "materia": "especificos-psicologia",
+          "questoes": 15
+        }
+      ]
+    },
+    {
+      "slug": "psicologo-unesp",
+      "nome": "Psicólogo (área de atuação: Saúde)",
+      "edital_id": "unesp-301-2026",
+      "vagas": "1 (temporário, substituto, até 2 anos)",
+      "remuneracao": "R$ 10.649,28",
+      "jornada": "40h",
+      "disciplinas": [
+        {
+          "materia": "lingua-portuguesa",
+          "questoes": "não informado"
+        },
+        {
+          "materia": "matematica-rlm",
+          "questoes": "não informado"
+        },
+        {
+          "materia": "legislacao-unesp",
+          "questoes": "não informado"
+        },
+        {
+          "materia": "informatica",
+          "questoes": "não informado"
+        },
+        {
+          "materia": "especificos-psicologia",
+          "questoes": "não informado"
+        },
+        {
+          "materia": "dissertativa",
+          "questoes": "não informado"
+        }
+      ]
+    },
+    {
+      "slug": "psicologo-adulto-sao-roque",
+      "nome": "Psicólogo Adulto",
+      "edital_id": "sao-roque-008-2026",
+      "vagas": "01 + CR",
+      "remuneracao": "R$ 3.875,44",
+      "jornada": "30h",
+      "disciplinas": [
+        {
+          "materia": "lingua-portuguesa",
+          "questoes": 10
+        },
+        {
+          "materia": "matematica",
+          "questoes": 5
+        },
+        {
+          "materia": "conhecimentos-gerais",
+          "questoes": 5
+        },
+        {
+          "materia": "especificos-psicologia",
+          "questoes": 20
+        }
+      ]
+    },
+    {
+      "slug": "psicologo-infantil-sao-roque",
+      "nome": "Psicólogo Infantil",
+      "edital_id": "sao-roque-008-2026",
+      "vagas": "01 + CR",
+      "remuneracao": "R$ 3.875,44",
+      "jornada": "30h",
+      "disciplinas": [
+        {
+          "materia": "lingua-portuguesa",
+          "questoes": 10
+        },
+        {
+          "materia": "matematica",
+          "questoes": 5
+        },
+        {
+          "materia": "conhecimentos-gerais",
+          "questoes": 5
+        },
+        {
+          "materia": "especificos-psicologia",
+          "questoes": 20
+        }
+      ]
+    },
+    {
+      "slug": "psicologo-20h-sao-pedro-turvo",
+      "nome": "Psicólogo 20h",
+      "edital_id": "sao-pedro-turvo-01-2026",
+      "vagas": "cadastro de reserva",
+      "remuneracao": "R$ 3.414,91",
+      "jornada": "20h",
+      "disciplinas": [
+        {
+          "materia": "lingua-portuguesa",
+          "questoes": 10
+        },
+        {
+          "materia": "matematica",
+          "questoes": 10
+        },
+        {
+          "materia": "conhecimentos-gerais",
+          "questoes": 5
+        },
+        {
+          "materia": "especificos-psicologia",
+          "questoes": 15
+        }
+      ]
+    },
+    {
+      "slug": "psicologo-educacional-sao-pedro-turvo",
+      "nome": "Psicólogo Educacional",
+      "edital_id": "sao-pedro-turvo-01-2026",
+      "vagas": "01 + CR",
+      "remuneracao": "R$ 4.082,72",
+      "jornada": "30h",
+      "disciplinas": [
+        {
+          "materia": "lingua-portuguesa",
+          "questoes": 10
+        },
+        {
+          "materia": "matematica",
+          "questoes": 10
+        },
+        {
+          "materia": "conhecimentos-gerais",
+          "questoes": 5
+        },
+        {
+          "materia": "especificos-psicologia",
+          "questoes": 15
+        }
+      ]
+    },
+    {
+      "slug": "psicologo-embu",
+      "nome": "Psicólogo",
+      "edital_id": "embu-das-artes-001-2026",
+      "vagas": "5 + CR",
+      "remuneracao": "R$ 6.574,76",
+      "jornada": "30h",
+      "disciplinas": [
+        {
+          "materia": "lingua-portuguesa",
+          "questoes": 10
+        },
+        {
+          "materia": "matematica",
+          "questoes": 10
+        },
+        {
+          "materia": "especificos-psicologia",
+          "questoes": 20
+        }
+      ],
+      "obs": "Programa de Conhecimentos Específicos idêntico ao de Anhembi (mesma banca INEPAM). Diferença: Embu inclui o bloco 'Conteúdo para todos profissionais da saúde' (SUS completo); Anhembi não o vincula ao cargo de Psicólogo."
+    },
+    {
+      "slug": "psicologo-antonio-prado-minas",
+      "nome": "Psicólogo",
+      "edital_id": "antonio-prado-minas-01-2026",
+      "vagas": "01 (+ 00 CR)",
+      "remuneracao": "R$ 3.576,46",
+      "jornada": "30h",
+      "disciplinas": [
+        {
+          "materia": "lingua-portuguesa",
+          "questoes": 10,
+          "peso": 2
+        },
+        {
+          "materia": "raciocinio-logico",
+          "questoes": 5,
+          "peso": 2
+        },
+        {
+          "materia": "informatica",
+          "questoes": 5,
+          "peso": 2
+        },
+        {
+          "materia": "legislacao-municipal-antonio-prado",
+          "questoes": 5,
+          "peso": 2
+        },
+        {
+          "materia": "conhecimentos-gerais",
+          "questoes": 5,
+          "peso": 2
+        },
+        {
+          "materia": "especificos-psicologia",
+          "questoes": 10,
+          "peso": 4
+        }
+      ],
+      "obs": "Programa de específicos é o mais enxuto dos 9 cargos: sem menção a RAPS, SUAS ou intervenção em crise. Foco em avaliação psicológica, teorias da personalidade, psicopatologia (alcoolismo, depressão, esquizofrenia, ansiedade), desenvolvimento psicomotor infantil e DSTs."
+    }
+  ],
+  "modulos_psicologia": [
+    {
+      "slug": "etica-profissional",
+      "nome": "Código de Ética Profissional do Psicólogo e documentos psicológicos",
+      "cargos": "todos os 8",
+      "paginas": 25
+    },
+    {
+      "slug": "psicopatologia",
+      "nome": "Psicopatologia e nosologia psiquiátrica",
+      "cargos": 6,
+      "paginas": 30
+    },
+    {
+      "slug": "avaliacao-psicodiagnostico",
+      "nome": "Avaliação psicológica, psicodiagnóstico e psicometria",
+      "cargos": 6,
+      "paginas": 30
+    },
+    {
+      "slug": "teorias-personalidade",
+      "nome": "Teorias da personalidade e abordagens psicoterápicas",
+      "cargos": 6,
+      "paginas": 30
+    },
+    {
+      "slug": "desenvolvimento",
+      "nome": "Psicologia do desenvolvimento e da aprendizagem (Piaget, Vygotsky, Wallon, Spitz, Gesell, Freud)",
+      "cargos": 6,
+      "paginas": 30
+    },
+    {
+      "slug": "saude-mental-politicas",
+      "nome": "Saúde mental, políticas públicas, RAPS e Lei 10.216",
+      "cargos": 5,
+      "paginas": 30
+    },
+    {
+      "slug": "psicologia-escolar",
+      "nome": "Psicologia escolar e educacional; educação inclusiva",
+      "cargos": 5,
+      "paginas": 25
+    },
+    {
+      "slug": "equipe-multiprofissional",
+      "nome": "Trabalho interdisciplinar e equipe multiprofissional",
+      "cargos": 6,
+      "paginas": 12
+    },
+    {
+      "slug": "estatutos",
+      "nome": "ECA, Estatuto da Juventude, Estatuto da Pessoa Idosa, Lei de Inclusão",
+      "cargos": 4,
+      "paginas": 22
+    },
+    {
+      "slug": "psicologia-social",
+      "nome": "Psicologia social e comunitária; SUAS e políticas públicas",
+      "cargos": 3,
+      "paginas": 20
+    },
+    {
+      "slug": "crise-acolhimento",
+      "nome": "Intervenção em crise, escuta qualificada e acolhimento",
+      "cargos": 2,
+      "paginas": 18,
+      "exclusivo": [
+        "agsus",
+        "sao-pedro-turvo"
+      ]
+    },
+    {
+      "slug": "dependencia-quimica",
+      "nome": "Dependência química: identificação, prevenção e tratamento",
+      "cargos": 2,
+      "paginas": 12
+    },
+    {
+      "slug": "saude-do-trabalhador",
+      "nome": "Saúde do trabalhador, PCMSO, fatores psicossociais, QVT",
+      "cargos": 1,
+      "paginas": 30,
+      "exclusivo": [
+        "unesp"
+      ]
+    },
+    {
+      "slug": "interculturalidade",
+      "nome": "Diversidade cultural, interculturalidade e bem viver indígena",
+      "cargos": 1,
+      "paginas": 15,
+      "exclusivo": [
+        "agsus"
+      ]
+    },
+    {
+      "slug": "normativos-agsus",
+      "nome": "Normativos institucionais da AgSUS",
+      "cargos": 1,
+      "paginas": 70,
+      "exclusivo": [
+        "agsus"
+      ]
+    },
+    {
+      "slug": "legislacao-unesp",
+      "nome": "Estatuto e Regimento da UNESP; redação oficial",
+      "cargos": 1,
+      "paginas": 30,
+      "exclusivo": [
+        "unesp"
+      ]
+    }
+  ],
+  "materias_comuns_reuso": [
+    {
+      "slug": "lingua-portuguesa",
+      "cargos": 6,
+      "paginas": 45
+    },
+    {
+      "slug": "matematica-rlm",
+      "cargos": 5,
+      "paginas": 35
+    },
+    {
+      "slug": "conhecimentos-gerais",
+      "cargos": 4,
+      "paginas": 25,
+      "obs": "módulo local por município é específico"
+    },
+    {
+      "slug": "conhecimentos-sus",
+      "cargos": 2,
+      "paginas": 80
+    },
+    {
+      "slug": "informatica",
+      "cargos": 1,
+      "paginas": 20
+    }
+  ],
+  "parametros_geracao": {
+    "palavras_por_pagina": 400,
+    "paginas_minimas_por_apostila": 300,
+    "questoes_por_materia": 10,
+    "obs_metodo_reverso": "formato adaptado por banca: CERTO/ERRADO no Cebraspe; 4 alternativas em São Roque; 5 em Anhembi"
+  },
+  "pendencias": [
+    {
+      "item": "Bariri/SP — Edital nº 01/2026 (retificações)",
+      "status": "não recebido",
+      "motivo": "domínio pciconcursos.com.br bloqueado pela política de egresso; é necessário anexar o PDF novamente"
+    }
+  ]
+}
